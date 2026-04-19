@@ -1,1 +1,1 @@
-# Tertis-Game-
+# Tertis Game
