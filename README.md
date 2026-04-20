@@ -63,3 +63,15 @@ The application includes a persistent high score system. Upon game over or a sco
 ---
 
 
+## Output
+<img width="1366" height="720" alt="Screenshot (7680)" src="https://github.com/user-attachments/assets/e3f92185-d145-4b8b-97e0-1a4a6df38ec1" />
+<br>
+<img width="1366" height="720" alt="Screenshot (7682)" src="https://github.com/user-attachments/assets/57048a3d-5b8f-478a-a257-39e5b49c2694" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7853)" src="https://github.com/user-attachments/assets/2a7993cc-7610-4fd1-9493-f95b59e82aac" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7854)" src="https://github.com/user-attachments/assets/d82799d2-dced-436c-9aea-7d1cb157eb7d" />
+<br>
+<img width="1366" height="720" alt="Screenshot (7855)" src="https://github.com/user-attachments/assets/c87e7e42-c491-4527-933a-16408ecefeff" />
+<br>
+<img width="1366" height="718" alt="Screenshot (7857)" src="https://github.com/user-attachments/assets/cba0a12a-5158-479f-ae9a-d53e36406a15" />
