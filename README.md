@@ -86,5 +86,6 @@ The application includes a persistent high score system. Upon game over or a sco
 
 
 ## Demonstration - How the Game Works
-<img width="800" height="421" alt="Tetris GIF" src="https://github.com/user-attachments/assets/84c17461-cb50-4e05-8861-5321b7cff285" />
+<img width="800" height="421" alt="Refer this-Tetris GIF" src="https://github.com/user-attachments/assets/c68e85b4-c10a-476f-a28e-63c1d2c78103" />
+
 
