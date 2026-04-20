@@ -74,4 +74,9 @@ The application includes a persistent high score system. Upon game over or a sco
 <br>
 <img width="1366" height="720" alt="Screenshot (7855)" src="https://github.com/user-attachments/assets/c87e7e42-c491-4527-933a-16408ecefeff" />
 <br>
+<img width="1366" height="720" alt="Screenshot (7859)" src="https://github.com/user-attachments/assets/c2e29e6c-315d-4a30-972c-e40d8f08a862" />
+<br>
 <img width="1366" height="718" alt="Screenshot (7857)" src="https://github.com/user-attachments/assets/cba0a12a-5158-479f-ae9a-d53e36406a15" />
+<br>
+<img width="1366" height="720" alt="Screenshot (7856)" src="https://github.com/user-attachments/assets/d0c608ea-6547-42af-9d9c-6572abad4566" />
+<br>
