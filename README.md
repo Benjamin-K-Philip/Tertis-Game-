@@ -34,3 +34,32 @@ The application includes a persistent high score system. Upon game over or a sco
 
 ---
 
+## Features <br>
+  - **Classic Gameplay:** Includes all 7 Tetromino shapes with accurate rotation and movement.
+
+  - **Ghost Piece:** Provides a visual guide showing the landing position of the current piece.
+
+  - **Persistent High Score:** Saves and loads the highest score using a JSON data file.
+
+  - **Leveling System:** Increases game speed and scoring potential as the player clears lines.
+
+  - **Preview Window:** Shows the "Next" piece to help players plan their moves.
+
+  - **Responsive Controls:** Supports both Arrow keys and WASD for movement, rotation, and drops.
+
+---
+
+## Project Structure <br>
+  - **pyxel (External Package):** The core game engine used for rendering pixel art, handling window events, and managing the 60 FPS game loop.
+
+  - **json (Standard Library):** Used to parse and write the pyxel_tetris_highscore.json file, ensuring the high score is stored in a structured, readable format.
+
+  - **TetrisApp (Main Class):** Contains the primary game logic, including update() for mechanics and draw() for graphics.
+
+  - **Piece (Helper Class):** Defines the shapes, colors, and rotation behavior of individual Tetrominoes.
+
+  - **highscore.json:** A local data file created automatically to store the highest score achieved on that machine.
+
+---
+
+
