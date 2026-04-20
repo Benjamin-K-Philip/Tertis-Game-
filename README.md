@@ -22,11 +22,11 @@ The application is built around the TetrisApp class, which orchestrates the inte
 ➤ **Scoring and Progression** <br>
 The system mimics authentic Tetris mechanics to calculate difficulty and rewards:
 
-**Line Clears:** When a row is full, it is removed, and the board above is shifted down.
+   - **Line Clears:** When a row is full, it is removed, and the board above is shifted down.
 
-**Dynamic Difficulty:** The level increases for every 10 lines cleared, which in turn reduces the drop_timer to make the game faster.
+   - **Dynamic Difficulty:** The level increases for every 10 lines cleared, which in turn reduces the drop_timer to make the game faster.
 
-**Scoring Formula:** Points are awarded based on the number of lines cleared simultaneously (1, 2, 3, or 4), multiplied by the current level. Bonus points are awarded for Soft Drops and Hard Drops.
+   - **Scoring Formula:** Points are awarded based on the number of lines cleared simultaneously (1, 2, 3, or 4), multiplied by the current level. Bonus points are awarded for Soft Drops and Hard Drops.
 
 
 ➤ **Data Persistence**
