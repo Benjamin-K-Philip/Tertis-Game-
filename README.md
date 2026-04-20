@@ -80,3 +80,11 @@ The application includes a persistent high score system. Upon game over or a sco
 <br>
 <img width="1366" height="720" alt="Screenshot (7856)" src="https://github.com/user-attachments/assets/d0c608ea-6547-42af-9d9c-6572abad4566" />
 <br>
+<img width="1366" height="718" alt="Screenshot (7759)" src="https://github.com/user-attachments/assets/aed9eeac-644c-4631-a430-5b5cf1ce3749" />
+
+---
+
+
+## Demonstration - How the Game Works
+<img width="800" height="421" alt="Tetris GIF" src="https://github.com/user-attachments/assets/84c17461-cb50-4e05-8861-5321b7cff285" />
+
